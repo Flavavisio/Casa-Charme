@@ -1,0 +1,16 @@
+{
+  "name": "Vendas Live — Dashboard",
+  "short_name": "Vendas Live",
+  "description": "Painel de gestão de vendas, stock e encomendas",
+  "start_url": "./DASHBOARDVENDAS.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#121417",
+  "theme_color": "#121417",
+  "icons": [
+    { "src": "icon-dashboard-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-dashboard-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-dashboard-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
