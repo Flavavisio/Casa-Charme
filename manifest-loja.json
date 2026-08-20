@@ -1,0 +1,16 @@
+{
+  "name": "Mabella",
+  "short_name": "Mabella",
+  "description": "Produtos para casa, acessórios e muito mais",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F8F1E7",
+  "theme_color": "#C08079",
+  "icons": [
+    { "src": "icon-loja-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-loja-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-loja-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
